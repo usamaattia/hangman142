@@ -4,7 +4,7 @@
 
 ## Discription
 
--this is sets of tasks as part of the AiCore project in my Data Eng9ineering course.
+- this is sets of tasks as part of the AiCore project in my Data Eng9ineering course.
 
 ## Installation instructions
 
