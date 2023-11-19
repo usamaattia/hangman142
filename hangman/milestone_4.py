@@ -46,6 +46,6 @@ class Hangman:
 
 
 #Example usage:
-word_list = ['apple', 'banana', 'orange', 'grape']
-hangman_game = Hangman(word_list)
-hangman_game.ask_for_input()
+# word_list = ['apple', 'banana', 'orange', 'grape']
+# hangman_game = Hangman(word_list)
+# hangman_game.ask_for_input()
