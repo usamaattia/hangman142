@@ -1,4 +1,5 @@
 import random
+# TODO: REVIEW - make sure you have a line space between your import statements and class definition
 class Hangman:
 
     def __init__(self, word_list, num_lives=5):
@@ -44,7 +45,10 @@ class Hangman:
                 self.list_of_guesses.append(guess)
                 break
 
+# TODO: REVIEW - in this game, it would be good for the player to be able to see the self.word_guessed variable each time they make a guess
+# it would also be good for them to see the list of letters they've already guess as well as the number of lives they have left even if they make a correct guess or a repeated guess.
 
+# TODO: REVIEW - you can put this code in an 'if __name__ == "__main__":' statement so that it will only run if this file is called directly, not when it is imported as a module to another file.
 #Example usage:
 # word_list = ['apple', 'banana', 'orange', 'grape']
 # hangman_game = Hangman(word_list)
