@@ -1,7 +1,5 @@
 import random
 
-# TODO: REVIEW - add a space after each comma
-# TODO: REVIEW - it's best to make these all the same casing for consistency, so you should lowercase the "O" in "Orange"
 fruits= ["pears", "banana", "grapes", "watermelons", "orange"]
 word_list = fruits
 print(word_list)
