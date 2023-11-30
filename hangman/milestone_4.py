@@ -30,7 +30,6 @@ class Hangman:
             print(f"Sorry, {guess} is not in the word.")
             print(f"You have {self.num_lives} lives left.")
 
-        # Add more logic here in the next tasks
 
     def ask_for_input(self):
         while True:
