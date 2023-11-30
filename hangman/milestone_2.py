@@ -1,6 +1,7 @@
 import random
 
-fruits= ["pears", "banana", "grapes", "watermelons", "orange"]
+
+fruits= ["pears","banana","grapes","watermelons","Orange"]
 word_list = fruits
 print(word_list)
 
